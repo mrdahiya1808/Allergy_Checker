@@ -1,2 +1,3 @@
-# Allergy_Checker
-Developed an allergy checker application using machine learning algorithms Utilized Deepgram for text-to-speech functionality, enhancing user interaction
+## Things to complete:
+- [ ] Finalize the prompt for the conversation flow, use JSON mode or function calling to get the output from LLM in a deterministic structured format (JSON mode is easier to implement, more intuitive, just simply provide instruction to LLM in natural language e.g. "make sure to return the output in JSON format, wheree key would allergy and the value would be the allergen)
+- [ ] Implement Deepgram API's for text-to-speech and speech-to-text
